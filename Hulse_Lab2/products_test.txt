@@ -1,0 +1,24 @@
+Panasonic DVD Player;5;125.99;D 
+Panasonic DVD Player;43;125.99;N
+Sony Camcoder;125;395.99;U
+Samsung TV;15;298.99;R
+Samsung Phone 10;1420;599;U
+CD Player;5;105.99;D 
+DVD Player;23;99.99;N
+Acer Laptop;150;299.99;U
+LG TV;19;599.99;R
+Apple iPhone 5;1999;299;N
+Macbook Air;5;999.99;U 
+Blu-Ray Player;49;89.99;N
+Panasonic DVD Player;5;125.99;D 
+Panasonic DVD Player;43;125.99;N
+Sony Camcoder;125;395.99;U
+Samsung TV;15;298.99;R
+Samsung Phone 10;1420;599;U
+CD Player;5;105.99;D 
+DVD Player;23;99.99;N
+Acer Laptop;150;299.99;U
+LG TV;19;599.99;R
+Apple iPhone 5;1999;299;N
+Macbook Air;5;999.99;U 
+Blu-Ray Player;49;89.99;N
